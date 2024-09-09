@@ -2,10 +2,7 @@
 
 > ⚠️ **Warning** ⚠️
 >
-> # This extension is deprecated and no longer maintained. We recommend existing customers to use the [Arduino IDE software](https://www.arduino.cc/en/software). 
-> # This extension will no longer be available on the marketplace as of 10/1/2024, please see [details here](https://github.com/microsoft/vscode-arduino/issues/1760).
-
-[![Gitter](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/Microsoft/vscode-arduino)
+> # This extension was deprecated and no longer maintained by [Microsoft](https://github.com/arduino/arduino-cli). So, trying to keep it uptodata as much as possible.
 
 Welcome to the Visual Studio Code extension for **Arduino** <sup>preview</sup> ! The Arduino extension makes it easy to develop, build, and deploy your Arduino sketches in Visual Studio Code, with a rich set of functionalities. These include:
 
